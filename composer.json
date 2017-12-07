@@ -1,0 +1,20 @@
+{
+  "name": "zongphp/tree",
+  "description": "无限分类",
+  "type": "project",
+  "keywords": [
+    "array",
+	"无限分类"
+  ],
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "files": [],
+    "psr-4": {
+      "zongphp\\tree\\": "src"
+    }
+  }
+}
